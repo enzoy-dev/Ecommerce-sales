@@ -2,6 +2,9 @@
 
 **Where does strong sales volume hide weak or negative profitability?**
 
+Read the [Portuguese portfolio case study](docs/estudo-de-caso.md) for a concise
+problem → investigation → evidence → recommendation narrative and interview guide.
+
 This project investigates the historical US Superstore sample with Python, pandas,
 and Matplotlib. It moves from a portfolio overview to a focused review of Tables
 by region, discount, and product, then proposes decisions the evidence can support.
